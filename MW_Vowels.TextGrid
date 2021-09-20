@@ -1,0 +1,146 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 15.032358276643992 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "MW_Vowels" 
+        xmin = 0 
+        xmax = 15.032358276643992 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.20496122137914663 
+            text = "" 
+        intervals [2]:
+            xmin = 0.20496122137914663 
+            xmax = 0.34089349913389877 
+            text = "ii" 
+        intervals [3]:
+            xmin = 0.34089349913389877 
+            xmax = 0.9570221577679779 
+            text = "" 
+        intervals [4]:
+            xmin = 0.9570221577679779 
+            xmax = 1.0841846111514557 
+            text = "ih" 
+        intervals [5]:
+            xmin = 1.0841846111514557 
+            xmax = 1.7687709277716013 
+            text = "" 
+        intervals [6]:
+            xmin = 1.7687709277716013 
+            xmax = 1.8973950185502912 
+            text = "ei" 
+        intervals [7]:
+            xmin = 1.8973950185502912 
+            xmax = 2.609105700155124 
+            text = "" 
+        intervals [8]:
+            xmin = 2.609105700155124 
+            xmax = 2.7728090884189114 
+            text = "eh" 
+        intervals [9]:
+            xmin = 2.7728090884189114 
+            xmax = 3.4511414020065967 
+            text = "" 
+        intervals [10]:
+            xmin = 3.4511414020065967 
+            xmax = 3.573918943204437 
+            text = "ah" 
+        intervals [11]:
+            xmin = 3.573918943204437 
+            xmax = 4.277506545962347 
+            text = "" 
+        intervals [12]:
+            xmin = 4.277506545962347 
+            xmax = 4.413438823717099 
+            text = "aw" 
+        intervals [13]:
+            xmin = 4.413438823717099 
+            xmax = 5.171921901968729 
+            text = "" 
+        intervals [14]:
+            xmin = 5.171921901968729 
+            xmax = 5.290314530980933 
+            text = "uh" 
+        intervals [15]:
+            xmin = 5.290314530980933 
+            xmax = 5.991182581916131 
+            text = "" 
+        intervals [16]:
+            xmin = 5.991182581916131 
+            xmax = 6.125653222275671 
+            text = "oh" 
+        intervals [17]:
+            xmin = 6.125653222275671 
+            xmax = 6.865374313978456 
+            text = "" 
+        intervals [18]:
+            xmin = 6.865374313978456 
+            xmax = 6.999844954337997 
+            text = "oo" 
+        intervals [19]:
+            xmin = 6.999844954337997 
+            xmax = 7.764582020589727 
+            text = "" 
+        intervals [20]:
+            xmin = 7.764582020589727 
+            xmax = 7.8902828365779945 
+            text = "uu" 
+        intervals [21]:
+            xmin = 7.8902828365779945 
+            xmax = 8.768416458269325 
+            text = "" 
+        intervals [22]:
+            xmin = 8.768416458269325 
+            xmax = 8.940889670904388 
+            text = "au" 
+        intervals [23]:
+            xmin = 8.940889670904388 
+            xmax = 9.677448180711648 
+            text = "" 
+        intervals [24]:
+            xmin = 9.677448180711648 
+            xmax = 9.82945846981374 
+            text = "oi" 
+        intervals [25]:
+            xmin = 9.82945846981374 
+            xmax = 10.615101489671254 
+            text = "" 
+        intervals [26]:
+            xmin = 10.615101489671254 
+            xmax = 10.805114351048868 
+            text = "ai" 
+        intervals [27]:
+            xmin = 10.805114351048868 
+            xmax = 11.536233764726889 
+            text = "" 
+        intervals [28]:
+            xmin = 11.536233764726889 
+            xmax = 11.641471657182182 
+            text = "ait" 
+        intervals [29]:
+            xmin = 11.641471657182182 
+            xmax = 12.356141182682462 
+            text = "" 
+        intervals [30]:
+            xmin = 12.356141182682462 
+            xmax = 12.516921296155829 
+            text = "er" 
+        intervals [31]:
+            xmin = 12.516921296155829 
+            xmax = 13.160378042742307 
+            text = "" 
+        intervals [32]:
+            xmin = 13.160378042742307 
+            xmax = 13.256846110826325 
+            text = "xx" 
+        intervals [33]:
+            xmin = 13.256846110826325 
+            xmax = 15.032358276643992 
+            text = "" 
